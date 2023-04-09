@@ -12,4 +12,4 @@ Side by side:
 Extra:
 ![Extra](https://drive.google.com/file/d/1D4omD7l92M_1DA8vROAA7fyrSSb0x-la/view?usp=share_link)
 ![Extra](https://drive.google.com/file/d/1psbNMOjw08UblsUTkCpRJxEr2pJC3ufi/view?usp=share_link)
-![Extra](https://drive.google.com/file/d/1N22NgEzE8L6huYSLJRvoUTZqgZuxeaSl/view?usp=share_link)
+![Extra](https://imgur.com/a/5EEb6DF)
