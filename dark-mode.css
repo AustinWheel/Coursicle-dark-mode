@@ -1,0 +1,55 @@
+/*  noticeToUsers (interns tab)
+    currentlySelectedScheduleTitle (Fall 2023)
+    calendarContainerForJavascript (Calendar Background)
+    * quickSearchColumn (sidebar, under search tab) -> color: black
+    quickSearchBox (search pill background)
+    * searchDiv (grabs behind pill and calendar under Header) -> color: fff, bg: dark
+    * container1 (header)
+*/
+body, #mainHeader,#contactUsModal, #contactUsModalFooter, #browsePanel, #aboutPanel, #navBar, #quickSearchTopContainer, #chatUserProfileModalContent, #noSearchTextContainer {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+#schedulePanel, #notifyPanel {
+    background-color: #444 !important;
+    color: #fff !important;
+}
+
+#quickSearchColumn, #container1 {
+    background-color: #333 !important;
+    color: #333 !important;
+}
+
+#nameInput, #tileSearchBoxInput {
+    color: #fff !important;
+    border-radius: 10px;
+}
+
+.supportedSchool, #tileSearchBoxIcon, #firstPara, #secondPara, .postTitle {
+    color: #fff !important;
+}
+
+::-webkit-scrollbar {
+    width: 0.9rem;
+    height: 1rem;
+    background-color: #333;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f100;
+    border-radius: 9999px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 9999px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #888;
+    border-radius: 9999px;
+  }

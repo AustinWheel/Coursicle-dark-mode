@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Coursicle Dark Mode",
+    "description": "Enable dark mode on Coursicles class selection page.",
+    "version": "1.0",
+    "icons": {
+        "16": "images/moon-16.png",
+        "32": "images/moon-32.png",
+        "48": "images/moon-48.png",
+        "128": "images/moon-128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "images/moon-16.png",
+            "32": "images/moon-32.png",
+            "48": "images/moon-48.png",
+            "128": "images/moon-128.png"
+        }
+    },
+    "permissions": ["activeTab", "scripting"],
+    "commands": {
+        "_execute_action": {
+            "suggested_key": {
+                "default": "Ctrl+B",
+                "mac": "Command+B"
+            }
+        }
+    }
+}
