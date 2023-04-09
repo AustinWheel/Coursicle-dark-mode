@@ -4,7 +4,7 @@ As a college student I find myself using Coursicle a ton to plan classes and loo
 
 I hope you decide to download and use this extension, it really is simple but it is quite nice to have for those few weeks every semester when your visiting Coursicle daily!
 Below are some images showing how it looks and works:
-![The new default Coursicle view](https://drive.google.com/file/d/1Ji9n7MhVjG9b7O0uDLW_D9oTtxz6-e1y/view?usp=share_link)
+<img width="1710" alt="Dark_main" src="https://user-images.githubusercontent.com/114939170/230762069-aa525c90-06b1-49dd-95f9-e281afb9107f.png">
 
 Side by side:
 ![Side by side comparison](https://drive.google.com/file/d/1jXiSMi1-u3f9BCc00IfTYcpLrdxs6mCF/view?usp=share_link)
